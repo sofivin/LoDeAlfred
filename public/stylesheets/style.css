@@ -6,3 +6,80 @@ body {
 a {
   color: #00B7FF;
 }
+
+.barra {
+  background-color: #00B7FF;
+  padding: 1rem 0 3rem 0;
+  background-image: url(../images/frutas.jpeg);
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  min-height: 1rem;
+}
+
+.logo {
+  height: 200px;
+  padding-left: 0px;
+  padding-top: 0px;
+}
+
+.navegacion {
+  padding-left: 900px;
+}
+
+.section {
+  display: inline-flex;
+  padding: 1rem 0 3rem 0;
+}
+
+.imagen1 {
+  padding-left: 0px;
+}
+
+.texto {
+  padding-left: 75px;
+}
+
+.imagen2 {
+  padding-left: 150px;
+}
+
+.foot1 {
+  padding-left: 0px;
+}
+
+.foot2 {
+  padding-left: 120px;
+  padding-top: 50px;
+}
+
+.foot3 {
+  padding-left: 300px;
+  padding-top: 150px;
+}
+
+.foot {
+  padding: 1rem 0 3rem 0;
+  background-image: url(../images/frutas.jpeg);
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  width: 1225px;
+  min-height: 1rem;
+  display: inline-flex;
+}
+
+/* .container {
+  background-color: #00B7FF;
+  padding: 1rem 0 3rem 0;
+  background-image: url(../images/frutas.jpeg);
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  min-height: 1rem;
+  display: inline-flex;
+} */
+
+.footer-company-name {
+  padding-left: 500px;
+}
